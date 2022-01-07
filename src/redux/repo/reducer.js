@@ -2,7 +2,7 @@ import { toast } from "react-toastify";
 import { SET_NEW_REPO_USER } from "./types";
 
 export const initialRepoState = {
-  repo: "RESTAURANTE-REACT",
+  repo: "API-GITHUB",
   user: "MALEROCHA03",
 };
 
